@@ -1,1 +1,1 @@
-# SHA-256-Python
+# A Simple Hash Table with Python.
